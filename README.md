@@ -1,1 +1,1 @@
-Atividades sobre estrutura de dados faculdade/web
+Atividades sobre estrutura de dados (faculdade/web)
