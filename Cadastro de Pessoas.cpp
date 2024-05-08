@@ -37,7 +37,7 @@ void list(Pessoas* person) {
         return;
     }
     list(person->left);
-    cout << person->name << ", ";
+    cout << person->name << ", " << person->age << ", "<<  person->salary << "k"<< endl;
     list(person->right);
 }
 
